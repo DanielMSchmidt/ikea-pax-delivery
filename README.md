@@ -6,4 +6,3 @@ This crawler makes checking IKEAs page a quick command.
 ## License
 
 MIT
-
